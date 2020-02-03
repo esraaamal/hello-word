@@ -1,3 +1,3 @@
 # hello-word
-this my first repo known what is git
+this my first repo knowning what is git
 iam very excited !
